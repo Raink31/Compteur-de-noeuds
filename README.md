@@ -1,2 +1,20 @@
-# Compteur-de-n-uds
-Application pour compter le nombre de nœuds fait en crochet
+# Compteur de noeuds
+
+### Screenshot
+![screenshot](desktop.png)
+
+## Links
+
+- URL: 
+
+## Built with
+
+- HTML5
+- CSS
+- Flexbox
+- Javascript
+
+
+## Author
+
+- GitHub - https://github.com/Raink31
